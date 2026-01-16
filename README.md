@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hey! I'm Aadvik 😁
 
-<!--
-**aadvikk/aadvikk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A creative human trying to be creative with code ✨
 
-Here are some ideas to get you started:
+I love discovering interesting datasets in the wild and breaking them down to uncover stories hidden inside numbers. If there's data, I'm probably already analyzing it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 My Toolbox
+Python · Pandas · NumPy · Seaborn · Matplotlib · SQL  
+Tableau · Google Colab · Excel · Google Docs (I *really* love documenting stuff)
+
+### 📌 On This Profile
+I'm slowly uploading all the mini-projects and ideas living in my mind.  
+Stick around — the list gets bigger day by day!
+
+### 🎵 When I'm not coding...
+- I'm hanging out with my adorable dog 🐶  
+- Watching Bollywood movies  
+- Singing, playing guitar, or going down endless YouTube rabbit holes
+
+---
+
+Thanks for stopping by ✨
