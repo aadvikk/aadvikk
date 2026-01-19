@@ -10,7 +10,7 @@ Tableau · Google Colab · Excel · Google Docs (I *really* love documenting stu
 
 ### On This Profile:
 I'm slowly uploading all the mini-projects and ideas living in my mind.  
-Stick around — the list gets bigger day by day!
+Stick around, the list gets bigger day by day!
 
 ### When I'm not coding...
 - I'm hanging out with my adorable dog 🐶  
