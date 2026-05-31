@@ -5,8 +5,8 @@ A creative human trying to be creative with code ✨
 I love discovering interesting datasets in the wild and breaking them down to uncover stories hidden inside numbers. If there's data, I'm probably already analyzing it.
 
 ### My Toolbox:
-Python · Pandas · NumPy · Seaborn · Matplotlib · SQL  
-Tableau · Google Colab · Excel · Google Docs (I *really* love documenting stuff)
+Python · Pandas · NumPy · Matplotlib · SQL  
+Power BI · Google Colab · Excel · Google Docs (I *really* love documenting stuff)
 
 ### On This Profile:
 I'm slowly uploading all the mini-projects and ideas living in my mind.  
